@@ -1,5 +1,3 @@
-import logo from "../images/logo-portfolio.png"
-
 export default function Footer(){
     return(
         <footer>
