@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-michael/static/css/main.34e7a688.css",
+    "main.js": "/portfolio-michael/static/js/main.cdd3a608.js",
+    "static/js/787.41bc0e5f.chunk.js": "/portfolio-michael/static/js/787.41bc0e5f.chunk.js",
+    "static/media/portfolio-image.png": "/portfolio-michael/static/media/portfolio-image.dce30090310f48b4e551.png",
+    "static/media/pern-stack.png": "/portfolio-michael/static/media/pern-stack.08e0986ff4d82a3a4bb4.png",
+    "static/media/book-library.png": "/portfolio-michael/static/media/book-library.4e88290d862e50b5c8e8.png",
+    "static/media/e-commerce-app.png": "/portfolio-michael/static/media/e-commerce-app.0e9d7cb79faf32916f4c.png",
+    "static/media/react-crud.png": "/portfolio-michael/static/media/react-crud.189c5bd38c62dbccfdac.png",
+    "static/media/weather-widget.png": "/portfolio-michael/static/media/weather-widget.6e039265f7c7eef1c869.png",
+    "static/media/emoji-selector.png": "/portfolio-michael/static/media/emoji-selector.6a970770beef0bb416eb.png",
+    "static/media/finder-app.png": "/portfolio-michael/static/media/finder-app.b580c983c78b3d9c1654.png",
+    "index.html": "/portfolio-michael/index.html",
+    "main.34e7a688.css.map": "/portfolio-michael/static/css/main.34e7a688.css.map",
+    "main.cdd3a608.js.map": "/portfolio-michael/static/js/main.cdd3a608.js.map",
+    "787.41bc0e5f.chunk.js.map": "/portfolio-michael/static/js/787.41bc0e5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e7a688.css",
+    "static/js/main.cdd3a608.js"
+  ]
+}
