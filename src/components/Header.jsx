@@ -41,7 +41,7 @@ export default function Header(){
                     <a className="link" href="#projects">
                         Projects
                     </a>
-                    <a className="link" href="#">
+                    <a className="link" href="https://bit.ly/3DmNqVt">
                         CV
                     </a>
                 </div>
@@ -64,7 +64,7 @@ export default function Header(){
                     <a className="link" onClick={() => setActive(!active)} href="#projects">
                         Projects
                     </a>
-                    <a className="link" onClick={() => setActive(!active)} href="#">
+                    <a className="link" onClick={() => setActive(!active)} href="https://bit.ly/3DmNqVt">
                         CV
                     </a>
                 </div>
