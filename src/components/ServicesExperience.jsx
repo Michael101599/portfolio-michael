@@ -38,8 +38,8 @@ export default function ServicesExperience(){
                 </div>
                 <div className="experiences" id="experiences">
                     <div className="experience">
-                        <h3>10</h3>
-                        <p>Months</p>
+                        <h3>Web</h3>
+                        <p>Development</p>
                     </div>
                     <div className="portfolios">
                         <div className="portfolio">
